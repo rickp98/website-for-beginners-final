@@ -1,0 +1,103 @@
+* {
+    box-sizing: border-box;
+    font-family: Tahoma;
+    color: #000;
+}
+
+
+
+html,body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(191, 211, 248);
+}
+
+img {
+    border-radius: 10%;
+}
+
+.nav ul {
+    margin: 0;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav a {
+    display: inline;
+    color:white;
+    text-decoration: none;
+
+}
+
+.main-nav {
+    text-align: right;
+    font-size: 1.1em;
+    font-weight: lighter;
+    border-bottom: 1 px solid grey;
+    text-indent: 2px;
+}
+
+.nav a:hover {
+    background-color:rgb(227, 172, 255);
+}
+
+
+
+
+.main-header {
+    background-image: url("IMG-8483 CELSESTIAL2.jpg");
+    background-size: cover;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    padding-left: 3px;
+}
+
+.content-section {
+    margin: 1em;
+}
+
+.container {
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+
+.section-header {
+    font-family:"arial";
+    font-weight: normal;
+    text-align: center;
+}
+
+
+.about-profile-image {
+    float: left;
+    height: 250px;
+    width: 250px;
+    margin: 15px;
+    border-radius: 50%;
+}
+
+.main-footer {
+    background-color:rgb(191, 211, 248);
+    color: white;
+    padding: .25 0;
+}
+
+.main-header1 {
+    background-image: url("IMG-8483 CELESTIAL2.jpg");
+    background-size: cover
+    padding; bottom:
+    text-align: center;
+}
+
+.nav-main {
+    text-align: center;
+    font-weight: normal;
+    font-family: arial;
+    
+}
